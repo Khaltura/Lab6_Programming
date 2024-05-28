@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Programming/Lab06/build",
+  "command": "c:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Lab6.dir\\main.cpp.obj -c C:\\Programming\\Lab06\\main.cpp",
+  "file": "C:\\Programming\\Lab06\\main.cpp",
+  "output": "CMakeFiles\\Lab6.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Programming/Lab06/build",
+  "command": "c:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Lab6.dir\\matrix.cpp.obj -c C:\\Programming\\Lab06\\matrix.cpp",
+  "file": "C:\\Programming\\Lab06\\matrix.cpp",
+  "output": "CMakeFiles\\Lab6.dir\\matrix.cpp.obj"
+},
+{
+  "directory": "C:/Programming/Lab06/build",
+  "command": "c:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Lab6.dir\\convolution.cpp.obj -c C:\\Programming\\Lab06\\convolution.cpp",
+  "file": "C:\\Programming\\Lab06\\convolution.cpp",
+  "output": "CMakeFiles\\Lab6.dir\\convolution.cpp.obj"
+},
+{
+  "directory": "C:/Programming/Lab06/build",
+  "command": "c:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Lab6.dir\\subdiscretization.cpp.obj -c C:\\Programming\\Lab06\\subdiscretization.cpp",
+  "file": "C:\\Programming\\Lab06\\subdiscretization.cpp",
+  "output": "CMakeFiles\\Lab6.dir\\subdiscretization.cpp.obj"
+}
+]

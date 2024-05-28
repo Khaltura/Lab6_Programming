@@ -1,0 +1,5 @@
+C:/Programming/Lab06/build/CMakeFiles/Lab6.dir
+C:/Programming/Lab06/build/CMakeFiles/package.dir
+C:/Programming/Lab06/build/CMakeFiles/package_source.dir
+C:/Programming/Lab06/build/CMakeFiles/edit_cache.dir
+C:/Programming/Lab06/build/CMakeFiles/rebuild_cache.dir
